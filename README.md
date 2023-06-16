@@ -8,7 +8,7 @@
 * [**Maths Complete Resources**](https://github.com/nculwell/MathStudy.git)
 * [**Cambridge Notes**](https://github.com/b-mehta/maths-notes.git)
 
-
+<h2> Repositories by Subjects</h2>
 
 <h3> Mathematics of Deep Learning</h3>
 

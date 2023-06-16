@@ -4,5 +4,5 @@
 
 
 
-
+<h2> Mathematics of Deep Learning</h2>
 https://github.com/joanbruna/MathsDL-spring18.git

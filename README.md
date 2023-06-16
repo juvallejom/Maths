@@ -2,6 +2,8 @@
 	<h1> Maths</h1>
 </div>
 
+* [**Maths Complete Resources**](https://github.com/nculwell/MathStudy.git)
+
 
 
 <h2> Mathematics of Deep Learning</h2>

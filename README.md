@@ -8,7 +8,7 @@
 
 
 
-<h2> Mathematics of Deep Learning</h2>
+<h3> Mathematics of Deep Learning</h3>
 
 * [**Mathematics of Deep Learning - NYU 18**](https://github.com/joanbruna/MathsDL-spring18.git)
 * [**Mathematics of Deep Learning - NYU 19**](https://github.com/joanbruna/MathsDL-spring19.git)

@@ -6,6 +6,5 @@
 
 <h2> Mathematics of Deep Learning</h2>
 
-
-* [maths]
+* [maths](https://github.com/joanbruna/MathsDL-spring18.git)
 

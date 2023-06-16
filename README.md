@@ -6,4 +6,5 @@
 
 <h2> Mathematics of Deep Learning</h2>
 - [**Maths**](https://github.com/joanbruna/MathsDL-spring18.git).
+- [**Control Theory**](https://github.com/SergeiSa/Control-Theory-Slides-Spring-2022).
 

@@ -6,6 +6,7 @@
 <h2> Complete Repositories</h2>
 
 * [**Maths Complete Resources**](https://github.com/nculwell/MathStudy.git)
+* [**Cambridge Notes**](https://github.com/b-mehta/maths-notes.git)
 
 
 

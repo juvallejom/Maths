@@ -6,6 +6,6 @@
 
 <h2> Mathematics of Deep Learning</h2>
 
-## Nuy
+
 * [maths]
 

@@ -19,6 +19,11 @@
 * [**Elementary Analysis**](https://github.com/luqmanmalik/Elementary-Analysis.git)
 
 
+<h3> Functional Analysis</h3>
+
+* [**Functional Analysis - Dodonov N.U.**](https://github.com/sugakandrey/Functional-analysis.git)
+
+
 <h3> Manifolds</h3>
 
 * [**Calculus of Manifolds**](https://github.com/luqmanmalik/Calculus-on-Manifolds.git)
@@ -31,3 +36,8 @@
 * [**Math Mastery for AI**](https://github.com/Niraj-Lunavat/Maths-for-Artificial-Intelligence.git)
 * [**AI Math Roadmap**](https://github.com/jasmcaus/ai-math-roadmap.git)
 
+
+
+Links para otros repositorios 
+
+https://custom-build-robots.com/roboter/raspberry-pi-roboter-big-rob-motortreiber-bts7960b-und-software/8158?lang=en

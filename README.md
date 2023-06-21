@@ -2,10 +2,15 @@
 	<h1> Maths</h1>
 </div>
 
+http://euclid.trentu.ca/math/courses/Roadmap/PureMath/welcome.html
+
 Areas a investigar 
 
 * [ ] Calculo Diferencial
 * [ ] Calculo Integral
+* [ ] Calculo en Varias Variables
+* [ ] Calculo Vectorial
+* [ ] 
 
 <h2> Complete Repositories</h2>
 

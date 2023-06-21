@@ -2,6 +2,9 @@
 	<h1> Maths</h1>
 </div>
 
+Areas a investigar 
+-[]Calculo Diferencial
+-[]Calculo Integral
 
 <h2> Complete Repositories</h2>
 

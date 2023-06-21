@@ -4,7 +4,7 @@
 
 http://euclid.trentu.ca/math/courses/Roadmap/PureMath/welcome.html
 
-Areas a investigar 
+Chance the subjects in order or that link 
 
 * [ ] Calculo Diferencial
 * [ ] Calculo Integral

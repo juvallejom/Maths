@@ -3,8 +3,9 @@
 </div>
 
 Areas a investigar 
--[]Calculo Diferencial
--[]Calculo Integral
+
+-[ ]Calculo Diferencial
+-[ ]Calculo Integral
 
 <h2> Complete Repositories</h2>
 

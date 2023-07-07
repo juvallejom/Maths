@@ -4,6 +4,12 @@
 
 http://euclid.trentu.ca/math/courses/Roadmap/PureMath/welcome.html
 
+<p align="center">
+  <img width="50%" align="center" src="Imagenes/Estanteria_Medidas.png"/>
+ </p>
+<p align="center">
+  <em>Figura 5: Medidas de la Estanteria</em>
+ </p>
 
 
 Chance the subjects in order or that link 

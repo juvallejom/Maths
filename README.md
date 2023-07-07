@@ -4,6 +4,8 @@
 
 http://euclid.trentu.ca/math/courses/Roadmap/PureMath/welcome.html
 
+
+
 Chance the subjects in order or that link 
 
 * [ ] Calculo Diferencial

@@ -5,7 +5,7 @@
 http://euclid.trentu.ca/math/courses/Roadmap/PureMath/welcome.html
 
 <p align="center">
-  <img width="50%" align="center" src="Imagenes/mitmathroadmap.jpg"/>
+  <img width="50%" align="center" src="Images/mitmathroadmap.jpg"/>
  </p>
 <p align="center">
   <em>Figura 5: Medidas de la Estanteria</em>
